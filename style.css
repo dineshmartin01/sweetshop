@@ -1,0 +1,370 @@
+
+   nav ul
+{
+	margin: 40px 300px ;
+	padding:0px 70px;
+	overflow:hidden;
+	border-radius:16px;
+	list-style-type:none;
+	display:flex;
+	justify-content:flex-start;
+	
+
+}
+ul li a
+{
+	color:#180d66;
+	display:block;
+	text-decoration:none;
+	font-size:19px;
+	padding:10px;
+
+}
+ul li a:hover
+{
+	color: #e1dfed;
+}
+
+.online
+{
+	height: 150px;
+	width: 100%;
+	margin-top: 100PX;
+}
+a
+{
+	text-decoration: none;
+	color:text-decoration: none; ;
+}
+.filter
+{
+	height: 20px;
+	width: 100%;
+	float: left;
+	text-decoration: none;
+}
+.filter1
+{
+	float: left;
+	margin-left: 10px;
+
+}
+.filter2
+{
+	float: left;
+	margin-left: 200px;
+
+}
+.filter3
+{
+	float: left;
+	margin-left: 950px;
+}
+
+.mysore
+{
+	margin-left: 25px;
+	margin-top: 30px;
+}
+.mysore1
+{
+	float: left;
+	margin-left: 35px;
+	margin-top: 10px;
+
+}
+.mysore2
+{
+	float: left;
+	margin-top: 30px;
+}
+.mysore3
+{
+	float: left;
+	margin-left: 60px;
+}
+.mysore4
+{
+	float: left;
+	margin-left: 170px;
+}
+.mysore5
+{
+	float: left;
+	margin-left: 135px;
+}
+.mysore6
+{
+	float: left;
+	margin-left: 150px;
+}
+.mysore7
+{
+	float: left;
+	margin-left: 220px;
+}
+.mysore8
+{
+	float: left;
+	margin-top: 10pxpx;
+}
+.mysore9
+{
+	float: left;
+	margin-left: 60px;
+}
+.mysore10
+{
+	float: left;
+	margin-left: 150px;
+}
+.mysore11
+{
+	float: left;
+	margin-left: 170px;
+}
+.mysore12
+{
+	float: left;
+	margin-left: 150px;
+}
+.mysore13
+{
+	float: left;
+	margin-left: 170px;
+}
+.mysore14
+{
+	float: left;
+	margin-top: 10pxpx;
+}
+.mysore15
+{
+	float: left;
+	margin-left: 60px;
+}
+.mysore16
+{
+	float: left;
+	margin-left: 150px;
+}
+.mysore17
+{
+	float: left;
+	margin-left: 160px;
+}
+.mysore18
+{
+	float: left;
+	margin-left: 155px;
+}
+.mysore19
+{
+	float: left;
+	margin-left: 160px;
+}
+.halwa1
+{
+	float: left;
+	margin-left: 60px;
+
+}
+.halwa2
+{
+	float: left;
+	margin-left: 190px;
+}
+.halwa3
+{
+	float: left;
+	margin-left: 250px;
+}
+.halwa4
+{
+	float: left;
+	margin-left: 120px;
+
+}
+.halwa5
+{
+	float: left;
+	margin-left: 230px;
+}
+
+
+.halwa7
+{
+	float: left;
+	margin-left: 60px;
+
+}
+.halwa8
+{
+	float: left;
+	margin-left: 130px;
+}
+.halwa9
+{
+	float: left;
+	margin-left: 200px;
+}
+.halwa10
+{
+	float: left;
+	margin-left: 170px;
+
+}
+.halwa11
+{
+	float: left;
+	margin-left: 190px;
+}
+
+.halwa12
+{
+	float: left;
+	/*margin-left: -10px;*/
+
+}
+.halwa13
+{
+	float: left;
+	margin-left: 60px;
+}
+.halwa14
+{
+	float: left;
+	margin-left: 190px;
+}
+.halwa15
+{
+	float: left;
+	margin-left: 210px;
+
+}
+.halwa16
+{
+	float: left;
+	margin-left: 150px;
+}
+.halwa17
+{
+	float: left;
+	margin-left: 230px;
+}
+
+.halwa19
+{
+	float: left;
+	margin-left: 60px;
+}
+.halwa20
+{
+	float: left;
+	margin-left: 130px;
+}
+.halwa21
+{
+	float: left;
+	margin-left: 190px;
+
+}
+.halwa22
+{
+	float: left;
+	margin-left: 185px;
+}
+.halwa23
+{
+	float: left;
+	margin-left: 200px;
+}
+.halwa25
+{
+	float: left;
+	margin-left: 60px;
+}
+.halwa26
+{
+	float: left;
+	margin-left: 180px;
+}
+.halwa27
+{
+	float: left;
+	margin-left: 180px;
+
+}
+.halwa28
+{
+	float: left;
+	margin-left: 150px;
+}
+.halwa29
+{
+	float: left;
+	margin-left: 210px;
+}
+
+.halwa31
+{
+	float: left;
+	margin-left: 60px;
+}
+.halwa32
+{
+	float: left;
+	margin-left: 210px;
+}
+.halwa33
+{
+	float: left;
+	margin-left: 180px;
+
+}
+.halwa34
+{
+	float: left;
+	margin-left: 200px;
+}
+.halwa35
+{
+	float: left;
+	margin-left: 170px;
+}
+.halwa37
+{
+	float: left;
+	margin-left: 210px;
+}
+.halwa38
+{
+	float: left;
+	margin-left: 180px;
+
+}
+.none
+{
+	height: 500px;
+	width: 100%;
+}
+.none1
+{
+	float: left;
+	margin-left: 60px;
+
+}
+.none2
+{
+	float: left;
+	margin-left: 30px;
+}
+.no
+{
+	height: 10px;
+	width: 100%;
+	background-color: red;
+}
+
+
+	
